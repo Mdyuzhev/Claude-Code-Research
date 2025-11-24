@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Claude Code Research Project
 
 <div align="center">
@@ -122,6 +121,3 @@ C_app_2/
 *Исследуя границы возможного в эпоху ИИ*
 
 </div>
-=======
-# C_app_2
->>>>>>> e9f059a1b809da0e346cc20f7d0a7f24d510abf6
